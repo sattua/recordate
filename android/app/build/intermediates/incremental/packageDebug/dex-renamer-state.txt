@@ -1,0 +1,4 @@
+#Tue Sep 19 10:10:28 CST 2017
+base.0=/Users/juan/devProjects/recordate/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/juan/devProjects/recordate/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
